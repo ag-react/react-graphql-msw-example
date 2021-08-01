@@ -1,5 +1,9 @@
 This is a example of using [Mock Service Worker](https://mswjs.io) to mock a GraphQL API in a React application.
 
+## Website
+
+[Mocking GraphQL APIs with Mock Service Worker](https://juhanajauhiainen.com/posts/mocking-graphql-apis-with-msw)
+
 ## Getting Started
 
 First, run the development server with mocking enabled:
